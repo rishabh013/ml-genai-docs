@@ -1,18 +1,35 @@
-# CrewAI
-Crewai_project -- Himansu -- campusx
+## 🤖 CrewAI
+- **Crewai_project** *(Main Repository)*
+  - Instructor: Himansu  
+  - Source: CampusX 
 
-# LangChain-LangGraph
-langgraph-tutorials-campusx -- Nitish -- campusx
-langchain-basic   -- krish -- udemy
-langchainupdated -- krish -- udemy
-langgraph -- krish -- udemy
+## 🔗 LangChain & LangGraph
+- **LangChain-LangGraph** *(Main Repository)*
+  - **langgraph-tutorials-campusx**
+    - Instructor: Nitish  
+    - Source: CampusX  
 
-# MCP
-mcp_server   -- campusx, udemy
+  - **langchain-basic**
+    - Instructor: Krish  
+    - Source: Udemy  
 
-# AutoGen
+  - **langchainupdated**
+    - Instructor: Krish  
+    - Source: Udemy  
+
+  - **langgraph**
+    - Instructor: Krish  
+    - Source: Udemy  
 
 
-# Full_stack_genai
+## 🔌 MCP (Model Context Protocol)
+- **mcp_server** *(Main Repository)*
+  - Instructor: Nitish  
+  - Source: CampusX, udemy 
 
+
+## 🤝 AutoGen
+
+
+## Full_stack_genai
 
