@@ -1,7 +1,12 @@
 ## 🤖 CrewAI
 - **Crewai_project** *(Main Repository)*
-  - Instructor: Himansu  
-  - Source: CampusX 
+  - **report_summarization_crew**
+  - **news_report_crew**
+  - **blog_generation_crew**
+  - **crewai_flows**
+  - **guide_generator_flow**
+    - Instructor: Himansu  
+    - Source: CampusX 
 
 ## 🔗 LangChain & LangGraph
 - **LangChain-LangGraph** *(Main Repository)*
@@ -32,4 +37,5 @@
 
 
 ## Full_stack_genai
+
 
