@@ -15,16 +15,14 @@
     - Source: CampusX  
 
   - **langchain-basic**
-    - Instructor: Krish  
-    - Source: Udemy  
-
   - **langchainupdated**
+  - **langgraph**
+  - **langgraph-end-to-end**
+  - **blog_generation_project** *(Project)*
+  - **agentic_chatbot_project** *(Project)*
     - Instructor: Krish  
     - Source: Udemy  
 
-  - **langgraph**
-    - Instructor: Krish  
-    - Source: Udemy  
 
 
 ## 🔌 MCP (Model Context Protocol)
@@ -37,5 +35,18 @@
 
 
 ## Full_stack_genai
+
+## 💻 Projects
+- **customer_support_system** *(Project)*
+  - Instructor: Sunny  
+  - Source: Krishnaikacademy 
+  - project_desc: *e-commerce product category assistant*, A Retrieval-Augmented Generation (RAG) based customer support chatbot built with LangChain, AstraDB, and FastAPI.
+
+- **agentic-trading-bot** *(Project)*
+  - Instructor: Sunny  
+  - Source: Krishnaikacademy 
+  - project_desc: An AI-powered trading bot where an agent is responsible for executing trades. It combines LLMs, vector search, and real-time data tools into a single agentic workflow.
+
+
 
 
