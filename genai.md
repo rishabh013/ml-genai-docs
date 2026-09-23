@@ -6,7 +6,8 @@
   - **crewai_flows**
   - **guide_generator_flow**
     - Instructor: Himansu  
-    - Source: CampusX 
+    - Source: CampusX
+    - Source Code: https://github.com/rishabh013/crewai_project
 
 ## 🔗 LangChain & LangGraph
 - **LangChain-LangGraph** *(Main Repository)*
@@ -21,17 +22,23 @@
   - **blog_generation_project** *(Project)*
   - **agentic_chatbot_project** *(Project)*
     - Instructor: Krish  
-    - Source: Udemy  
-
+    - Source: Udemy
+    - Source code: https://github.com/rishabh013/langchain-langgraph
 
 
 ## 🔌 MCP (Model Context Protocol)
 - **mcp_server** *(Main Repository)*
   - Instructor: Nitish  
-  - Source: CampusX, udemy 
+  - Source: CampusX, udemy
+  - Source code: https://github.com/rishabh013/mcp_server
 
 
-## 🤝 AutoGen
+## 📚 RAG (Retrieval-Augmented Generation)
+- **Advanced_Rag_Codes** *(Main Repository)*
+  - Instructor: Sudhansu
+  - Source: Campusx
+  - Desc: A collection of implementations covering advanced RAG techniques, retrieval strategies, document processing, embeddings, vector databases, reranking, and other RAG-related concepts.
+  - Source code: https://github.com/rishabh013/Advanced_Rag_Codes
 
 
 ## Full_stack_genai
