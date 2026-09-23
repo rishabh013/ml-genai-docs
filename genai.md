@@ -48,21 +48,25 @@
   - Instructor: Sunny  
   - Source: Krishnaikacademy 
   - project_desc: *e-commerce product category assistant*, A Retrieval-Augmented Generation (RAG) based customer support chatbot built with LangChain, AstraDB, and FastAPI.
+  - Source code: https://github.com/rishabh013/customer_support_system
 
 - **agentic-trading-bot** *(Project)*
   - Instructor: Sunny  
   - Source: Krishnaikacademy 
   - project_desc: An AI-powered trading bot where an agent is responsible for executing trades. It combines LLMs, vector search, and real-time data tools into a single agentic workflow.
+  - Source code: https://github.com/rishabh013/agentic-trading-bot
 
 - **multilingual-ai-assistant** *(Mini-Project)*
   - Instructor: Sunny  
   - Source: Youtube 
   - project_desc: A small Streamlit app that combines voice and text chat: speak a question, or type it. Replies come from Google Gemini and can be played back as speech (voice mode) using gTTS.
+  - Source code: https://github.com/rishabh013/multilingual-ai-assistant
 
 - **doctor-appoitment-multiagent** *(Project)*
   - Instructor: Sunny  
   - Source: Krishnaikacademy 
   - project_desc: An AI-powered trading bot where an agent is responsible for executing trades. It combines LLMs, vector search, and real-time data tools into a single agentic workflow.
+  - Source code: 
 
 
 
