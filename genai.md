@@ -40,8 +40,8 @@
   - Desc: A collection of implementations covering advanced RAG techniques, retrieval strategies, document processing, embeddings, vector databases, reranking, and other RAG-related concepts.
   - Source code: https://github.com/rishabh013/Advanced_Rag_Codes
 
+## Guardrails
 
-## Full_stack_genai
 
 ## 💻 Projects
 - **customer_support_system** *(Project)*
